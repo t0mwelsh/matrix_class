@@ -1,5 +1,3 @@
-// PHYS 30762 Programming in C++
-// Assignment 5
 // A matrix class
 // Provides overloading of <<, >>, +, - and * on matricies as well as calculating determinant
 #include<iostream>
